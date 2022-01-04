@@ -1,4 +1,4 @@
-# Responsive React Websit... Pizza Homepage
+# Responsive React Website... Pizza Homepage
 Demo landing page for a pizza restaurant. Website is compatible on all devices and has a pop out sidebar
 
 ## Available Scripts
